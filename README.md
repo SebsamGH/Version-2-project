@@ -1,4 +1,7 @@
+# version1-project
+
 Your main outcome is to have a working docker image deployed on AWS and running on Fargate.
+
 ​
 📂
 
